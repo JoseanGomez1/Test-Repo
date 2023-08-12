@@ -13,10 +13,10 @@ Secondary use will be user referencing past workouts to gauge progress.
 - JavaScript
 - HTML
 - CSS
-- Ejs
+- EJS
 - Express Generator
 - Node
-- Mongoose & MongooseDb
+- Mongoose & MongoDB
 
 # Getting Started
 
